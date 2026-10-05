@@ -1,0 +1,1329 @@
+{
+  "Chapters_5_6_Tool_Use_and_Planning.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3dfd4670a8fd338669bad6010138ae6acfeebddf249bef82ca457f07b5dd3737"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "59c710cc5d1d79b98810e453b1cdf247b15185346b813c88685a2c11bd95a7c9"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "17040d38d2111cb82ae2f27ac84a8e084d962c965fd4daf0eaa22b9211e15dbb"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "9897cca0a66a612b7e251069bfa9e42421ed2b491ec8a2c9870f1d9ec16ead8e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f991507f99d86ff28e5247def3c5c64685baecc7354f6ebfe73aaf619881c380"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c2ffa081dc91d8708e16a0d60d1e9ae1d6974b8ee66ca246bc4e0073f9e9ad88"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a284b381dc08f74e439aedc35c007c647dbb0ffe8966a381e00680cedda29c43"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f8ea87305d1ca009cafc0936c74dd80b486d9af7678de55bdf8137f67464626b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "49ebc984b4561491269838f09986fd471de956fe5925704a05e5feec9491a14e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "0ef44cd0bca295bd2d162d2ec3073d2fc1b6c94b54b3833ee1903a9a0a394d1f"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e434cf7b16c2a041dc8694077e7c2fdeb7be39d7c88865669990d8d892b2ec22"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b5c1f8f9d90b30480b68d980e5c625d3b57e5729699900d7b34600af26bb3fc9"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "9446980817be3bb461d92bd22eb78d74fdc493ffef04235772ff7214d67c8025"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "407d716c201cb2238bfbf36b08c1d6196f2c0cc8bdb708d864a1a962984f84f1"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ad342f20b751f2f4872b00c532926cf8481af7c6ffd58352c6460ebf3e5f82ae"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "321dec7da438726f87603edf88b3aa150a26117c2d89c9a4707b94dfc0a98575"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e35994a10c490d4187994052d0d5dc6918455f37044213469df3c056a446d87c"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_10_Model_Context_Protocol.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "2951ad99c4ecc22d7b587d1eb996f6eb38f561e007d0f84a1114fa5b15431559"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "7e4f5fe8805a3b47c938d6a3435626f465927d919920b2146a82458e35511472"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d43da2c0150a9d01305da89ea34b75cb5397354e9e93fa961c12673776d016cd"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b09da5ac9ee5c5b91ec54f1fa6675fb74c887e203b2436400a51ac105322d387"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "0b56134da5905c1471a947c0e1c092dc1907d9641298805c8c9fb341af18f9b3"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ec9d171f78acd26f7afe344e43bc48d205df4f3caa0856dbf3f4d35fc04b0e0c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "2030dc3adeb670c7be57624daad5793e99cfdafd21ba48204aaee9f7c49eb048"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f6da386acdc532107bd3f276ac15960b9799ac98bb8b2151cc26fe783b1fd3f6"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "4afa9e4620e1264c3699d04f3d778868556e20dc5636dbff62f4603bd9b8f209"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ceee7c7a44c716a34fa57660759ee13ef1e12027ed4e7e168d1aafaa225035a9"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "32e64f46fb0c314cfa8b7f9d0386163c620ff2c3e6e8ffd05d54cade144614d4"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "44a96ec1e2df65a90d43072173b3a622c89afb37cb185178fa78c6e5166cae41"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a35407ed65ae86b5329caf6dd5bfe53e369bcd4fbfcff0d963d1f3fa4340321e"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_11_Goal_Setting_and_Monitoring.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c9f5f6e84ba9d096612357718fe2c664c01bcaa7b782d35cfaa5b2e5b13f16ad"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "112e390340b1c61acf7936e7d1ae9b2049183f9d4f571635dbb3679e835df80f"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e52cd83bbae6d162abc4c0d6e6a7faaa41edaee0bc186df24ed88e9134c50225"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f5e6559933c924b239a32c2d830d90b6bcf946ed76ed1395a666c5d9d134a132"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a57353d6ecd908c0be0ec95b13dfa8f6e54c7e92190bdc27ba7111b49578841c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a0f90d301c739826b875578c7278f6432de59da928fd63b87da03012b540369a"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "135366a1e1f41fe02ca6999df1db07c38713bed05ecb07f5abe2de9c9dacb4c2"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3a42848d858fce06b46122737f6bc4d9d70b4c6ef946165916a5ea81d3dd5684"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "55b82037c8dd3db19549f007a8d3deb0a20f1454b2b1de5251dacd4a71a5cd84"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "0f64e375284274c8e56dfb7e9ac62ad51185b4b279ee789c1aa6674f693882bc"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c4dc9b0005cc77a2d5e4456c208bab5be8af93f02a7e0d5f72c4fa2bc7916428"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "06d7ae84162df9a2f6d27ed0fe60d8167d3a8fa149a85aa4635093b2619c9ef6"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_12_Exception_Handling_Recovery.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d5d8d1942a85e4733d50156f49e5253118ae8c485e8a106ec07c2c4d30dc536c"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e806610dfdf7dde13650d71f43316d34dc9e8c088a1bb1f7e7490194be9183c0"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "759edb0e721ac2e53c03644c2b6ee1a556cb76a618e79ffc14e0d4f5f487a7a0"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "63916cdfddc2bfe4106369cccac588a9d5818a666de11397aa682093f1598a05"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "68f3057dc705eeb8cee8c476521a75f69ff914824f5b405c9f348499c52dd609"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e603f2fea65b7f64f6fc4acf8cd6ae8b8af1e8a73e4da88563cfc33bb89b6926"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ba69ef1f6e75d36b4e2b4ac52afda372e0db8b30e277445153567afe83369130"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "45cdfe915a7072e7f865130659fbf69720c7a471874fc4acf9f8495738da5456"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "51f5922ae8f3f8c55895795e1c54df72f4e47efab8d6923bfab74424c9b5f476"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "447ac200aff9d65f3d0e921198c84dfef66522fcfa2c59cb986e63ef7488a123"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "4bf1f3475957a7ef67dcf535b51d66a80ade504dc58f72350bf67770711eee44"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a2abd358760062d8a0ee0904fa814e5057e987295413aa57619ddaaba3a014c5"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_13_Human_in_the_Loop.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c9f5f6e84ba9d096612357718fe2c664c01bcaa7b782d35cfaa5b2e5b13f16ad"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b48d2b3ac069ad3403054315da0c0963579cd001725706a14759480221090452"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f9599978bcc4e86c23ae894071af789f17bdda75b04047479df873cb7badff6a"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "26d7e6040ab6bcf07ced61b07449ebde539a9d40da1b693eaf62168f870cba39"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "91eb5abbd0318c4e4f0730c2ef39cf428c5d07334fed407dd1c8442235e9ed36"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f3ee514657599fa3dc4000919d4b9310dc2617afdb7d9796462d3c1092e0cfbe"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ee62b082b9eff05767ff5aff516c3dce0d9fe2a125f143409f04ac00e5412996"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "cbec78d6b63c59195500db338a15e189e8e7e4a8e4fb51abe4f737a6fe43e499"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a657190e9dc55cf511102c4768bf453fa2dfc51c9ecb906752ebe5c356fdf18b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b90dfadd4ed09d281a57aa7021276e76e87a693d0ee87cf37ea1fc1eeb2792e1"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "7f7198dc9151ae18dd434fe47bddb0ad0d514a92b1bc07b53bce0b2451ae1ab1"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_1_Prompt_Chaining.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "135b6d25ddc8faf2a8d81a7d4c6262370eb31dbc98776b5614c1f85e39c0a78a"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "404c6463aec4fb9b5bbd77dd4ffe1802ba08b323bebf22bc747196f4243961b7"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e7126e76a902f4d74ea6d657f53213ba44789de7fc5172aeba824873c8a84693"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "9e37dd2a3c7204a469928aa655495c179f7a777be20b0d40aa5401f711b0e3d8"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3eb4c424ffe8110fb733ad01446ba42f522c78a2afe2cc0871f273ca7524a9af"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b62445aeb5da1c4398eb8a43237a61911f6fd389c71dd7ae6cadc92a82858fdd"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "996b20a60bc8cab7ee67072abc6a2e5eb6d4bb0da395804863402873e3a89721"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "34ac256c4c9c6d09af5267dc635e599bf9ebecd1c3057171ec590f2ca59dc0e6"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d83c1c1acc194c88deb840b5105f30d8bf481fea911e7ee441647e86b2c50560"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8e09cdc6da65c05118ef0a769fbcf153b9101da8fe0daf1e29196cfc239f2739"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ac6086cf3cc7503af3c72f741f756444638079e4b6010c2a202ec9ed3c33e939"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "5f041f986681318c81a15dd477f44218c280a515fda369af5bd86bfbc56e040c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8153754893b454e62b1fb66a7b9e4f5db4ce471d7c99f4866cac77cad17573f8"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b7761d23fda952adbaecdd16f4d82d2fc22238ae6ef503f0f21fd7fbe4007d12"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "57dcddc16f3427c99aeedde456c9e93d1159e004f97a17114f0f9b410f885c27"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4"
+    ]
+  },
+  "Chapter_2_Routing.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "1588860e92de615b116190dc4ac1d1be516f59859b057ed8580a90c79b9c224c"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "1d5c2e2934a6285381fedbdd10e9f18a1b421b884365665d492f5677c7b349e8"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "56bd4c91c3b779daf0e5e2251d8fde5b2e39dc86189a114b0a484100e4655cb2"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "81d70303dbdf07ecf7d590db79234b84cd774e1bd1f664ad3510da37f1424a07"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3a966572daca2ebaacb4d829e20a10a0154f1403f4c85c801c8c6d379a6d1463"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "7fca6b12e98a07aaa492d4f8e3651b29254a2ec17e8da21d45acf894f77d4f07"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "bed2450e2dc864dfe70df4f4e2477b28ad0cfebe0807c58ca408c2bd402a4cdb"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a568a320798864fbe3549e300f0f2b41c4c3c56b770f4b69a6f25af55275abce"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "11ab8b5f9eb5d3b59c7d0800ba7a0f87a44804aaf4672f2a2c69da6741b31386"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "2125f80642cff0ded60192bd3e7a090e0ed60fcf832ce41d9398311e8e6718d0"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "58bfcc9e2d24221b46dd7dc0b366655f6856fc4c935cfa981aceb20086f7724b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ae9139f7cff560d9b81544ec7ac1e20868a0bc1ea81c626e3376018ea11e6470"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f77db69a8adc33f30ca0ea147e4f8783649f83e8831f26d6912f8cbebe355403"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_3_Parallelization.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3a68be18b714b8f5611078fcdd8a8dd80e97563dcb1ae3f2c0bffb9dbb4d70be"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "1c35bb69fade7a32636c89235ef1d3b2a7b6920999792aa16a3e37b981e3328f"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "312639e29a022e6f75f456528492fd9df8bb87c18d21d5fe07eaa0393248a669"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "5156e076d9cc41e2a979b3d77230cf33123939b137f3ff82d89fa947bc186f53"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e78f01158c864f4db21ca81c25bd5262a839e58cd8948dced020517b4e2a2c84"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a6d0ed9b6c650c5d61e188e8a101132684c62c39da001e287c1a248a2c6be0dd"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e5f544f1c3980db8b6cacbd118214290e6f7ddb11babe2e06180dfedd7c27a28"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3ce1bd967ddde221cd3f1c0457e4fbdd0c41659537a28c5c7b231043fdd2344c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f9da1ab0ef45a294f3169d1b4981506cd80f7996a86d3e1bd4421557922e8724"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8d2539c81890fcda427cb836234318a60de7c6d8d7a833aca5d075a1791e3bbc"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "be6ec265fbd632cb111f99399b40c7d51f78438405a4ab35e8372a5d1090fd86"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "198b8c777bd688870db7bdfc3d67c09f5b9629e9b303d6029b1ba1e87d3b9a0b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "77986deaa0c39fe991b46047c19776b96bae2852d0b4dc936ed06c49499f24ec"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3ef6f0ba128b654b5270970018ecd1039b44a59bae785acb5bbef9a2951cc162"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "4593ba096273c2a51ae36c52acb320ecc048ef3354019727f6f640b6b1806834"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f7f485d4fbdb78a70f09f5e2bb306736b48a0ccdae9c8b5914d9cdffb05d5b17"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8bb570c24bc1d7d165522b0e5a8d3030fb250648ebbca2bc4da740ed1c5da96e"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_4_Reflection.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3dfd4670a8fd338669bad6010138ae6acfeebddf249bef82ca457f07b5dd3737"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "76ea4cfe9144b9b5f3da62212401accda0d3c7fc19d0f2a5bc53de51cb0b1dfc"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d2ac65509696384217cbdf4feb7455721391083adc543d385da7e4a31e25d20b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "63f368054034a8b49d68f069fe23dc1f0026e05468b75551d53fdb89decc1a14"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8d7740b5eac8bcbbd6f4a3d93743fdfcd87a91f5a956ec96c7db4c8a3c5c128d"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "0245d86080ef3de6bdbcb06c3330b05dca949709d9bf5c579d718d81191cf8a0"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c8494c452e43cd4b5139b5da7e1d73a7af0251caa3e14efc2edc6f6f29425daa"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "19388ae3349096029b410f8531aac2283c6e0a8bf4627ab8d23ba996feabe125"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "85c56e4614b458a8080b9dd2149c242cf4d73e29ae9a79091c910739249d344c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "292c7df32a4f6aaaab537e2d7702b9da4c011515ea177b7beb80c26ed19e907e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "74c20f2e10fdf5c00dea7eb6a254c7599e7e85e885da6c7396bf420728afcc8e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "f454a41f84ce3c93c8c74e44698279c2f348167bffc55905a799afd8abf0988b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "71e848ab21556c61662d230975b0a0eeddd53b25c5c386db190c2d812aafff49"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "6beac8721f9cd16cd4fa5d923bb5c89dbd7d0bd4770147dc4fa7df6b43f7718e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a1719ff2f210e23f3fc6ce0cc2182decd15f36711859e039b1d76759c920a9c6"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_7_Multi_Agent_Collaboration.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "3dfd4670a8fd338669bad6010138ae6acfeebddf249bef82ca457f07b5dd3737"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "aab98320cc2a9efafcb9321eda56cdd7967597a2c35727ae3cad0e16bfe2f00e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "bc7217514169f9477ae847f36326daa1c0cf9a66554752f0d68f8735f14ac396"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d1bfe735209bc1d905c55efd4599f81fbcfba0450a1042ffe140b8aa93dcb56b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "d33e71851eac0ca345ab8307b91e627aaea8f048d2e7432e8151a7e9e0881dd2"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "1537ab6f2ec2a351f0ccade23c9d3374d0fc26d2593144f8279e3c1516d5f7f1"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a67dd92100ad03d539362cd0a3a2b3493fa25d25446ba67c49d6fe839c315476"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "7146c747fc0da9117f9148ecd10463c770b2837bf654f79c6af99466d85b241b"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8bc4f0ba413e6c7ceecdd0cf3d84121f17014e973e01650dd753f9fc05e06981"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "1a10bf5d7a0cbd3d823b48f9e5ade04d3c19cdf7a2911c8e14fe1b4b37eb49e5"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "8c343c6622c289632a3114d3a4a98e5f99b59df78b9c5f94e32497ac751016f9"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "082a06ad665dbb61970df4855605f95b3f65bc9b400919282cb545c0205fdcd1"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "b4be1d5d10f9eeea6178d589a26591c5f1f539990fc97cfc48f678157966e014"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "69b0c408fb701074d257d40e761652c6ad8c0d49f3087a3212e349926d1ebc05"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_8_Memory_Management.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c46b50666f64734188acec1b71f0de7cdb1aa660fd4e5f314271eda8c85ba73f"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "6d475c04130c3d20eb374feac879adb86f1e84039d119797ddf2d1451c283280"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "2794721a985e9f73efb9b0cdc5d23e789f67eb84357f34f16dfd4a719b10904e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "2d2d9dce966e7c3efbee4e880d94d34df5745fc6d485c61017cd9a686bbf9e64"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "05c7cc9d7d881387f256a06d9b9dd1892f7cda0ea91285b16229c5d48d4442aa"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "6fc3229f774e27becd9486acd79d821e1d51e4c5c9967902da1a253387426bb6"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "a9407dc3d0b6ada4fa3f6ec36377c941629b070070158dcec543e78b0eda0fd2"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "53b36ed1893c4bcad5c09f41d94db681d945f0b3f0acefa1510f34d565bd4d16"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "af446d3409778295d0c8fccc1b9ac4fb7c6c8597928cd726c6cf0ed6fa0ca031"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "de2e3932b287b6421759a95f12769ba15f4ba665b27217e4831ab0ef2dea8e4e"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "fdb1bea74216e797cc16d07be6582c57b75201250900d46e09716e44419262a5"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c07f442311b5a5332d0700434638dec7b24aa0604adc3e03393612df1f718a08"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "5c99da94f44cd3ba61e8eecf854697325216aef26422bb0085f58b9339e6baef"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "e038bf3c0c2466f6098909f5d256bcc66cbedf5ff53cdf077b9e63b2b75a4c80"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  },
+  "Chapter_9_Learning_and_Adaptation.ipynb": {
+    "cells": [
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "c5978a81b01e66b99578bcfd634e34cc232643d1f192beff910748331286a107"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "76f6a2e021420fc6a82631b9eb26965b638a6cc932386995bb308a33042c84d6"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ec2e4c35fc9bd507596d45d4b30bee27b2cd9378782b043a2e5756b69522e75c"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "171ca7a5f2eda99cbe2573c3ea82542b18802299bd68c3584d2ed49516c7e9d8"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ee22271460d2f6585ceb4eee14ec3ebde0500934f5f1f439bc9a05a03edcbd25"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "5b752402d4db9ae9714e0e3ee02185c739369c78d7f0c019d54056eadd3b267d"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "332d1dcff80ab35933dcb0bb6088275cc680b7266339c7f26ece744ff6d157e8"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "caebd1f9143a45913c3b246f1bfe8af6d1355895aa4ab60d0b207bd7a9e2d107"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "7d263201539954eacb479808492b0d55bad44d9880dd6aad7b4d91203d6eaf49"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "bbbfc760951f3eeaa68bffb37851939082603bd07bc17e6ded9e4354168da39d"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "534021659b67e6e394619041eaef72517d31340a72e31e1bf3a3fa30c5d40c05"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "6d2c7c249d6e8b5e9e7eddc0654f764d6d0e8735629abfa56312be92b07cef3f"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "ae6f6771e7e85799d9ada756d033e7e5ad8a6d9d31bb8172c4b238b2d72b4e87"
+      },
+      {
+        "cell_type": "markdown"
+      },
+      {
+        "cell_type": "code",
+        "ast_sha256": "9fd1376946f7abc9b713b23ca922110a7a91a0558d6b05b05f6b5584e77693ad"
+      },
+      {
+        "cell_type": "markdown"
+      }
+    ],
+    "exercises": [
+      "Exercise 1",
+      "Exercise 2",
+      "Exercise 3",
+      "Exercise 4",
+      "Exercise 5"
+    ]
+  }
+}
